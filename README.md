@@ -1,69 +1,47 @@
-<!-- ===================== PROFILE SUMMARY ===================== -->
+<!-- ===================== PROFILE ===================== -->
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pradeep753&theme=tokyonight" width="96%"/>
 
-<br/>
-<br/>
+<br><br>
 
-<!-- ===================== ANIMATED CONTRIBUTION GRAPH ===================== -->
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=pradeep753&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=Pradeep's%20Contribution%20Graph"
-    width="96%"
-  />
-</p>
-
-<br/>
-
-<!-- ===================== GITHUB STATS ===================== -->
+<!-- ===================== 3D CONTRIBUTION GRAPH ===================== -->
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=pradeep753&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    height="180"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=pradeep753&theme=tokyonight&hide_border=true"
-    height="180"
-  />
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=pradeep753&bg_color=050816&color=00e5ff&line=7c3aed&point=00ffff&area=true&hide_border=true&custom_title=⚡%203D%20Contribution%20Matrix"
+width="96%"
+/>
+
 </p>
 
-<br/>
+<br>
 
-<!-- ===================== TOP LANGUAGES ===================== -->
+<!-- ===================== 3D STATS ===================== -->
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep753&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    height="180"
-  />
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=pradeep753&show_icons=true&theme=tokyonight&bg_color=050816&title_color=00e5ff&icon_color=7c3aed&text_color=c9d1d9&border_color=7c3aed&hide_border=false"
+height="180"
+/>
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=pradeep753&theme=dark&background=050816&ring=7c3aed&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=00e5ff&border=7c3aed"
+height="180"
+/>
+
 </p>
 
-<br/>
+<br>
 
-<!-- ===================== CONTRIBUTION SNAKE ===================== -->
+<!-- ===================== 3D LANGUAGE MATRIX ===================== -->
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Pradeep753/Pradeep753/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake"
-    width="96%"
-  />
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep753&layout=donut&theme=tokyonight&bg_color=050816&title_color=00e5ff&text_color=c9d1d9&border_color=7c3aed"
+height="220"
+/>
+
 </p>
-
-
-
-<!-- PROFILE SUMMARY — ORIGINAL --> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pradeep753&theme=tokyonight" width="96%"/>
-
-<br/>
-
-<!-- ANIMATED CONTRIBUTION GRAPH --> <img src="https://github-readme-activity-graph.vercel.app/graph?username=pradeep753&bgcolor=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hideborder=true&custom_title=Pradeep's%20Contribution%20Graph" width="96%"/>
-
-<br/>
-
-<!-- GITHUB STATS --> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pradeep753&showicons=true&theme=tokyonight&hideborder=true&rankicon=github&includeallcommits=true&countprivate=true" height="180" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradeep753&theme=tokyonight&hide_border=true" height="180" /> </p>
-
-<br/>
-
-<!-- TOP LANGUAGES --> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep753&layout=compact&theme=tokyonight&hideborder=true&langscount=8" height="180" /> </p>
