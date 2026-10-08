@@ -51,3 +51,19 @@
     width="96%"
   />
 </p>
+
+
+
+<!-- PROFILE SUMMARY — ORIGINAL --> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pradeep753&theme=tokyonight" width="96%"/>
+
+<br/>
+
+<!-- ANIMATED CONTRIBUTION GRAPH --> <img src="https://github-readme-activity-graph.vercel.app/graph?username=pradeep753&bgcolor=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hideborder=true&custom_title=Pradeep's%20Contribution%20Graph" width="96%"/>
+
+<br/>
+
+<!-- GITHUB STATS --> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pradeep753&showicons=true&theme=tokyonight&hideborder=true&rankicon=github&includeallcommits=true&countprivate=true" height="180" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradeep753&theme=tokyonight&hide_border=true" height="180" /> </p>
+
+<br/>
+
+<!-- TOP LANGUAGES --> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep753&layout=compact&theme=tokyonight&hideborder=true&langscount=8" height="180" /> </p>
