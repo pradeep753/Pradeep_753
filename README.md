@@ -1,32 +1,29 @@
-<!-- ===================== PROFILE ===================== -->
+<div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pradeep753&theme=tokyonight" width="96%"/>
+<!-- Profile Activity --> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pradeep753&theme=tokyonight" width="98%" alt="GitHub Profile Details" />
 
 <br><br>
 
-<!-- ===================== DARK GRADIENT LINE GRAPH ===================== -->
+<!-- Languages --> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pradeep753&theme=tokyonight" width="48%" alt="Repositories per Language" />
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=pradeep753&bg_color=050816&color=8b5cf6&line=00e5ff&point=ffffff&area=true&area_color=312e81&hide_border=true&custom_title=Pradeep%27s%20GitHub%20Activity"
-    width="96%"
-  />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pradeep753&theme=tokyonight" width="48%" alt="Most Commit Language" />
 
-<br>
+<br><br>
 
-<!-- ===================== STATS ===================== -->
+<!-- GitHub Stats --> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pradeep753&theme=tokyonight" width="48%" alt="GitHub Stats" />
 
-<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pradeep753&theme=tokyonight&utcOffset=5.5" width="48%" alt="Productive Time" />
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=pradeep753&show_icons=true&theme=tokyonight&bg_color=050816&title_color=00e5ff&icon_color=8b5cf6&text_color=c9d1d9&border_color=312e81&hide_border=false"
-    height="180"
-  />
+<br><br><br>
 
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=pradeep753&background=050816&ring=8b5cf6&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=8b5cf6&currStreakNum=ffffff&sideNums=ffffff&border=312e81"
-    height="180"
-  />
+<!-- 🔥 Animated Contribution Snake --> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Animated GitHub Contribution Snake" />
 
-</p>
+<br><br>
+
+<!-- ⚡ Animated Typing --> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=650&lines=Keep+Coding+%E2%80%A2+Keep+Learning+%E2%80%A2+Keep+Building;Turning+Ideas+Into+Reality;Code.+Create.+Innovate.;Thanks+For+Visiting+My+Profile+%F0%9F%92%99" alt="Animated Typing Text" />
+
+<br><br>
+
+<!-- 🌊 Animated Footer --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=120&section=footer&animation=fadeIn" width="100%" alt="Animated Footer" />
+
+</div>
